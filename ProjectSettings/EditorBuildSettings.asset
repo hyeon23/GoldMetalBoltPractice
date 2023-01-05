@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/#1DinoRun.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/#2JellyFarm.unity
+    guid: c2a2b14af03f1014b9bf1ea20c8365cb
+  - enabled: 1
+    path: Assets/Scenes/#3LittleWars.unity
+    guid: d5cb909921760d84d982c9e92b830a31
+  m_configObjects: {}
